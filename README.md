@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christina Valdez
+- 👋 Hi, I’m Christina Orona-Valdez
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data analytic from Merit America
 - 💞️ I’m looking to collaborate on Projects with a focus on SQL to help create a portfolio 
